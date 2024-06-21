@@ -1,6 +1,6 @@
 package square_sum;
 
-public class Solution {
+public class solution {
     public boolean judgeSquareSum(int c) {
         for (long a = 0; a * a <= c; a++) {
             double b = Math.sqrt(c - a * a);
