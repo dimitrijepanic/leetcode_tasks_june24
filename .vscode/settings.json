@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "cmath": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp"
     }
 }
